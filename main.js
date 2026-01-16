@@ -4,3 +4,4 @@ function greet(name = 'world') {
 
 if (typeof module !== 'undefined') module.exports = { greet }; // for tests
 
+// test polling
